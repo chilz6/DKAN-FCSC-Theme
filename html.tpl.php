@@ -21,7 +21,7 @@
     <link href="/css/ie.css" media="screen" rel="stylesheet" type="text/css" />
   <![endif]-->
   <?php print $scripts; ?>
-  <link type="text/css" rel="stylesheet" href="assets\css\custom.css" media="all" />
+  <link type="text/css" rel="stylesheet" href="assets/css/custom.css" media="all" />
 </head>
 <body class="<?php print $classes; ?>" <?php print $attributes;?>>
   <div id="skip-link">
